@@ -1,2 +1,2 @@
 # InCRIMP
-The InCRIMP model to be added to this repo
+This repo includes the scripts used for performing the InCRIMP project.
